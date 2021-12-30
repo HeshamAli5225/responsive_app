@@ -13,7 +13,7 @@ class MyApp extends StatelessWidget {
   const MyApp({Key? key}) : super(key: key);
 
   // first code in branch
-  // first code in Second_branch
+  //code in Second_branch
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
